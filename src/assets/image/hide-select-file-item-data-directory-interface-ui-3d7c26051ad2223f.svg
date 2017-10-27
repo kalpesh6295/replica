@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16px" height="16px" viewBox="0 0 16 16" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="43.svg">
+  <defs id="defs4">
+    <pattern y="0" x="0" height="6" width="6" patternUnits="userSpaceOnUse" id="EMFhbasepattern"/>
+    <pattern y="0" x="0" height="6" width="6" patternUnits="userSpaceOnUse" id="EMFhbasepattern-5"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="22.627417" inkscape:cx="-3.6700683" inkscape:cy="4.1491336" inkscape:document-units="px" inkscape:current-layer="g5983" showgrid="true" units="px" inkscape:window-width="1366" inkscape:window-height="715" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1">
+    <inkscape:grid type="xygrid" id="grid3367" color="#0000ff" opacity="0.1254902" empcolor="#3f0000" empopacity="0.25098039"/>
+  </sodipodi:namedview>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-1036.3622)">
+    <g id="g5983" transform="translate(-0.01448082,0.01008381)">
+      <path style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="M 9.9921875 0.99023438 L 9.9765625 1.0058594 L 2.0078125 1.0058594 L 2.0078125 15.005859 L 2.9863281 15.005859 L 2.9863281 15.009766 L 3.4863281 15.009766 L 3.9863281 15.009766 L 3.9863281 14.212891 L 11.986328 7.8105469 L 11.986328 8.0097656 L 12.986328 8.0097656 L 12.986328 7.0097656 L 12.986328 5.0039062 L 13.001953 5.0039062 L 13.001953 4.0039062 L 12.972656 4.0039062 L 10.025391 1.0234375 L 10.025391 1.0058594 L 10.007812 1.0058594 L 9.9921875 0.99023438 z M 3.0078125 2.0058594 L 9.0234375 2.0058594 L 9.0195312 5.0039062 L 11.986328 5.0039062 L 11.986328 6.5292969 L 3.0078125 13.714844 L 3.0078125 2.0058594 z M 10.023438 2.4433594 L 11.566406 4.0039062 L 10.019531 4.0039062 L 10.023438 2.4433594 z M 11.986328 9.0097656 L 11.986328 10.009766 L 12.986328 10.009766 L 12.986328 9.0097656 L 11.986328 9.0097656 z M 11.986328 11.009766 L 11.986328 12.009766 L 12.986328 12.009766 L 12.986328 11.009766 L 11.986328 11.009766 z M 11.986328 13.009766 L 11.986328 14.009766 L 12.986328 14.009766 L 12.986328 13.009766 L 11.986328 13.009766 z M 11.986328 14.009766 L 10.986328 14.009766 L 10.986328 15.009766 L 11.986328 15.009766 L 11.986328 14.009766 z M 4.9863281 14.009766 L 4.9863281 15.009766 L 5.9863281 15.009766 L 5.9863281 14.009766 L 4.9863281 14.009766 z M 6.9863281 14.009766 L 6.9863281 15.009766 L 7.9863281 15.009766 L 7.9863281 14.009766 L 6.9863281 14.009766 z M 8.9863281 14.009766 L 8.9863281 15.009766 L 9.9863281 15.009766 L 9.9863281 14.009766 L 8.9863281 14.009766 z " transform="translate(0.01448082,1036.3521)" id="path5737"/>
+    </g>
+  </g>
+
+	
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Hide, Select, File, Item, Data, Directory, Interface, UI" dc:description="Hide, Select, File, Item, Data, Directory, Interface, UI" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Chamestudio</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

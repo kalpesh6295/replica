@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16px" height="16px" viewBox="0 0 16 16" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="117.svg">
+  <defs id="defs4">
+    <pattern y="0" x="0" height="6" width="6" patternUnits="userSpaceOnUse" id="EMFhbasepattern"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="22.627417" inkscape:cx="11.517197" inkscape:cy="7.3399271" inkscape:document-units="px" inkscape:current-layer="g5272" showgrid="true" units="px" inkscape:window-width="1366" inkscape:window-height="715" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1">
+    <inkscape:grid type="xygrid" id="grid3358"/>
+  </sodipodi:namedview>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-1036.3622)">
+    <g id="g5550" transform="translate(0.50449022,-1.00135)">
+      <g id="g5272" transform="translate(-0.00329022,0.9816172)">
+        <path style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="M 4 2 L 4 8.9980469 L 2 8.9980469 L 2 9.9980469 L 4 9.9980469 L 4 13.998047 L 4.5 13.998047 C 7.5000667 13.998047 10.500133 13.997447 13.5 13.998047 L 14 13.998047 L 14 4.9980469 L 14.001953 4.9960938 L 14 4.9941406 L 11.005859 2.0039062 L 11.005859 2 L 4 2 z M 5 3 L 10.005859 3 L 10 5.9941406 L 13 5.9941406 L 13 12.998047 C 10.333225 12.997547 7.6666173 12.997947 5 12.998047 L 5 9.9980469 L 8 9.9980469 L 8 12 L 8.7988281 11.400391 L 11.332031 9.5019531 L 8 6.9941406 L 8 8.9980469 L 5 8.9980469 L 5 3 z M 11.003906 3.4160156 L 12.585938 4.9941406 L 11.001953 4.9941406 L 11.003906 3.4160156 z " transform="translate(-0.5012,1036.3819)" id="path4037-4"/>
+      </g>
+    </g>
+  </g>
+
+	
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Import, File, Document, Doc, Interface, UI" dc:description="Import, File, Document, Doc, Interface, UI" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Chamestudio</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

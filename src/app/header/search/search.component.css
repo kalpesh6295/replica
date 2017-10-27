@@ -1,0 +1,40 @@
+.main-search-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 72.3%;
+    height: 100%;
+   
+    float: left;   
+    background-color: #D82B2B;
+}
+.search-box-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+
+}
+.search-box-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    height: 40%;
+    width: 80%;
+}
+
+.form-control{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    height: 2.5vw;
+}
+::placeholder{display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1vw;
+    color: red;
+}

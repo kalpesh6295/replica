@@ -1,0 +1,29 @@
+
+.inline-slider{
+    margin-top: 0px;
+}
+ul{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   list-style-type: none;
+    
+     width: 30%;
+     background-color: #EC5F1E;
+} 
+li{border-left: 1px solid darkorange;
+    border-right: 1px solid #1F1203;
+    width: 33.33%;
+    
+    font-size: 1vw;
+}
+     
+
+a{ 
+    color: black;
+    text-decoration: none;
+
+}
+li:first-child{
+    margin-left: 0px;
+}

@@ -1,0 +1,36 @@
+.main-cart{  display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    text-align: center;
+    height: 100%;
+    width: 11.5%;
+    background-color: #D82B2B;
+    
+}
+.cart-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+
+                      
+}
+.cart{display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 40%;
+    
+    font-size: 1vw;
+    color: white;  
+}
+
+.cart-image{display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 4vw;
+    color: white;
+}
+

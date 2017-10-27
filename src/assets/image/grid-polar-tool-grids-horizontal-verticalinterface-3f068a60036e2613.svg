@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16px" height="16px" viewBox="0 0 16 16" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="176.svg">
+  <defs id="defs4">
+    <pattern y="0" x="0" height="6" width="6" patternUnits="userSpaceOnUse" id="EMFhbasepattern"/>
+    <pattern y="0" x="0" height="6" width="6" patternUnits="userSpaceOnUse" id="EMFhbasepattern-4"/>
+    <pattern y="0" x="0" height="6" width="6" patternUnits="userSpaceOnUse" id="EMFhbasepattern-49"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="22.627417" inkscape:cx="7.7282078" inkscape:cy="7.7814092" inkscape:document-units="px" inkscape:current-layer="g4373" showgrid="true" inkscape:window-width="1366" inkscape:window-height="715" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" units="px">
+    <inkscape:grid type="xygrid" id="grid3360"/>
+  </sodipodi:namedview>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-1036.3622)">
+    <g transform="translate(-2.5265734,1.0312727)" id="g3877">
+      <g transform="translate(1.2943666,-0.33897736)" id="g3808">
+        <g transform="matrix(-1,0,0,-1,17.257575,2087.526)" id="g4373">
+          <path style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="M 8.5078125 1.0058594 C 4.6578966 1.0058594 1.5254196 4.1383812 1.5253906 7.9882812 C 1.5253596 11.838281 4.6578556 14.970703 8.5078125 14.970703 C 12.35777 14.970703 15.488312 11.838281 15.488281 7.9882812 C 15.488253 4.1383813 12.357728 1.0058594 8.5078125 1.0058594 z M 8.5078125 2.0058594 C 9.9796831 2.0058594 11.322794 2.5377626 12.363281 3.4160156 L 10.951172 4.828125 C 10.272184 4.3008641 9.430824 3.9746094 8.5078125 3.9746094 C 7.5843547 3.9746094 6.7420461 4.3023565 6.0625 4.8300781 L 4.6503906 3.4160156 C 5.6913073 2.5377626 7.0359419 2.0058594 8.5078125 2.0058594 z M 3.9433594 4.1230469 L 5.3554688 5.5371094 C 4.8243372 6.217854 4.4941402 7.0615319 4.4941406 7.9882812 C 4.4941404 8.5455428 4.6095451 9.0774074 4.8164062 9.5605469 L 3.109375 10.558594 C 2.7387872 9.7796862 2.5253831 8.9098997 2.5253906 7.9882812 C 2.5254018 6.5119622 3.0603392 5.1652522 3.9433594 4.1230469 z M 13.070312 4.1230469 C 13.953339 5.16537 14.48827 6.511555 14.488281 7.9882812 C 14.488288 8.8881316 14.285709 9.7391147 13.931641 10.503906 L 12.210938 9.5234375 C 12.407905 9.0500726 12.519532 8.5315622 12.519531 7.9882812 C 12.519532 7.0609918 12.189495 6.2160941 11.658203 5.5351562 L 13.070312 4.1230469 z M 8.5078125 4.9746094 C 9.1586259 4.9746094 9.7569087 5.1832725 10.248047 5.53125 L 8.5039062 7.2753906 L 6.765625 5.5332031 C 7.2575402 5.1842539 7.8560047 4.9746094 8.5078125 4.9746094 z M 10.955078 6.2382812 C 11.307554 6.7318479 11.519532 7.3324963 11.519531 7.9882812 C 11.519531 8.3524852 11.445261 8.6969087 11.328125 9.0195312 L 9.3203125 7.8730469 L 10.955078 6.2382812 z M 6.0566406 6.2402344 L 7.6933594 7.8769531 L 5.6933594 9.046875 C 5.5698507 8.7168683 5.4941404 8.3624919 5.4941406 7.9882812 C 5.4941402 7.3339401 5.7052156 6.7332058 6.0566406 6.2402344 z M 9.0039062 8.8457031 L 10.832031 9.8886719 C 10.380078 10.442008 9.7420217 10.831266 9.0039062 10.953125 L 9.0039062 8.8457031 z M 8.0039062 8.8535156 L 8.0039062 10.951172 C 7.2774833 10.829325 6.6491846 10.449317 6.1992188 9.9082031 L 8.0039062 8.8535156 z M 11.703125 10.384766 L 13.439453 11.375 C 12.450512 12.815357 10.84777 13.796411 9.0039062 13.947266 L 9.0039062 11.951172 C 10.106632 11.812493 11.06535 11.233498 11.703125 10.384766 z M 5.3339844 10.414062 C 5.9708342 11.244725 6.917258 11.81239 8.0039062 11.951172 L 8.0039062 13.947266 C 6.1842777 13.796056 4.5999823 12.83531 3.609375 11.423828 L 5.3339844 10.414062 z " transform="matrix(-1,0,0,-1,16.025368,1051.8561)" id="path4249"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+	
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Grid, Polar, Tool, Grids, Horizontal, Verticalinterface" dc:description="Grid, Polar, Tool, Grids, Horizontal, Verticalinterface" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Chamestudio</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
